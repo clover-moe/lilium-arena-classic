@@ -1851,6 +1851,8 @@ extern	cvar_t	*r_printShaders;
 
 extern cvar_t	*r_marksOnTriangleMeshes;
 
+extern cvar_t *r_vaoCache;
+
 //====================================================================
 
 static ID_INLINE qboolean ShaderRequiresCPUDeforms(const shader_t * shader)
