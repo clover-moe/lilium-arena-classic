@@ -10,7 +10,7 @@ Credit for Quake 3 protocol 43 goes to Thilo Schulz (for ioEF) and Zack Middleto
 Currently QVM float rounding is only correct on x86/x86_64 so it's not ready for Arm, PowerPC, etc.
 
 Lilium Arena Classic is based on [Lilium Arena](https://github.com/clover-moe/lilium-arena).
-Lilium Arena Classic code commits: [compare/upstream...master](https://github.com/clover-moe/lilium-arena-classic/compare/upstream...master)
+Lilium Arena Classic code commits: [compare/lilium-arena...master](https://github.com/clover-moe/lilium-arena-classic/compare/lilium-arena...master)
 
 The source code for the Quake 3 1.16n game, cgame, and ui code is not included as it remains under a non-free license.
 
